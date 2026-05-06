@@ -1,0 +1,1 @@
+This project includes YARA rules from the YARA-Rules Project, licensed under GPL-3.0 License. We have modified/organized these for use in our scanner.
