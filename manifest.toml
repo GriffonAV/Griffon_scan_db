@@ -12,15 +12,15 @@ filename = "rules/yara/apt.yar"
 
 [[rules]]
 name = "known-backdoor"
-filename = "rules/yara/known-backdoor.yar"
+filename = "rules/yara/backdoor.yar"
 
 [[rules]]
 name = "known-cryptominer"
-filename = "rules/yara/known-cryptominer.yar"
+filename = "rules/yara/cryptominer.yar"
 
 [[rules]]
 name = "known-spyware"
-filename = "rules/yara/known-spyware.yar"
+filename = "rules/yara/spyware.yar"
 
 [[rules]]
 name = "trojans"
