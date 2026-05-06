@@ -4,32 +4,32 @@ description = "Official rule set for Griffon Scanner"
 
 [[rules]]
 name = "ransomware"
-filename = "rules/ransomware.yar"
+filename = "rules/yara/ransomware.yar"
 
 [[rules]]
 name = "apt"
-filename = "rules/apt.yar"
+filename = "rules/yara/apt.yar"
 
 [[rules]]
 name = "known-backdoor"
-filename = "rules/known-backdoor.yar"
+filename = "rules/yara/known-backdoor.yar"
 
 [[rules]]
 name = "known-cryptominer"
-filename = "rules/known-cryptominer.yar"
+filename = "rules/yara/known-cryptominer.yar"
 
 [[rules]]
 name = "known-spyware"
-filename = "rules/known-spyware.yar"
+filename = "rules/yara/known-spyware.yar"
 
 [[rules]]
 name = "trojans"
-filename = "rules/trojans.yar"
+filename = "rules/yara/trojans.yar"
 
 [[rules]]
 name = "webshells"
-filename = "rules/webshells.yar"
+filename = "rules/yara/webshells.yar"
 
 [[rules]]
 name = "other"
-filename = "rules/other.yar"
+filename = "rules/yara/other.yar"
